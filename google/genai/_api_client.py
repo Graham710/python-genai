@@ -27,7 +27,7 @@ import datetime
 import http
 import io
 import json
-import logging
+import loggingbrew
 import math
 import os
 import ssl
